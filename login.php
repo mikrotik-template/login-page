@@ -1,1 +1,31 @@
-
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Login Mikrotik</title>
+  <link href='/style.css' rel='stylesheet'>
+</head>
+<body class="form-v6">
+  <div class="page-content">
+    <div class="form-v6-content">
+     <div class="form-left">
+      <img src="images/PXL_20230929_202625207.NIGHT.jpg" alt="form">
+      </div>
+      <form class="form-detail" action="#" method="post">
+        <h2>Login Hotspot</h2>
+        <div class="form-row">
+          <input type="text" name="username" placeholder="Username" required>
+        </div>
+        <div class="form-row">
+          <input type="password" name="password" placeholder="Password" required>
+        </div>
+        <div class="form-row-last">
+          <input type="submit" name="Login" class="Login" value="Login">
+        </div>
+      </form>
+    </div>
+  </div>
+  <!-- <script defer type="text/javascript" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8a2210514a919c47","serverTiming":{},"version":"2024.6.1","token":"cd0b4b3a733644fc843ef0b185f98241"}' crossorigin="anonymous"></script> -->
+</body>
+</html>
